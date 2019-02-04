@@ -1,0 +1,1077 @@
+  333  ls
+  334  cat build.sh 
+  335  man gcc
+  336  ls
+  337  ./build.sh 
+  338  ls
+  339  vim src/linked_list_main.c 
+  340  vim build.sh 
+  341  vim build_stuff.sh 
+  342  vim maze_game.sh 
+  343  ./maze_game.sh 
+  344  git checkout master
+  345  ls
+  346  ./maze_game.sh 
+  347  vim maze_game.sh 
+  348  mkdir build
+  349  ./maze_game.sh 
+  350  ls
+  351  exit
+  352   sudo yum install mono-complete fsharp
+  353  sudo yum update
+  354   sudo yum install mono-complete fsharp
+  355  ls
+  356  git log
+  357  ls
+  358  exit
+  359  yum update
+  360  sudo yum update
+  361  exit
+  362  sudo yum update
+  363  lein
+  364  yum install lein
+  365  sudo yum install lein
+  366  sudo yum install leiningen
+  367  which java
+  368  ls -a -l `which java`
+  369  ls -a -l /etc/alternatives/java
+  370  cd /usr/lib/jvm
+  371  ls
+  372  cd jre-1.8.0
+  373  pwd
+  374  yum install java-dev
+  375  sudo yum install java-dev
+  376  sudo yum install jdk
+  377  sudo yum install javac
+  378  sudo yum install java-1.8.0-openjdk
+  379  which javac
+  380  exit
+  381  which javac
+  382  javac
+  383  updatedb
+  384  sudo updatedb
+  385  locate javac
+  386  sudo yum install java-1.8.0-openjdk
+  387  javac
+  388  sudo yum install java-1.8.0-openjdk-devel
+  389  which javac
+  390  ls
+  391  tmux
+  392  ls
+  393  cd git
+  394  ls
+  395  cd kjwClojureSandbox/
+  396  ls
+  397  cd sr
+  398  ls
+  399  cd src/
+  400  ls
+  401  emacs kjwsandbox.clj 
+  402  ls
+  403  lein
+  404  sudo yum install leiningen
+  405  sudo yum install clojure
+  406  lein
+  407  sudo yum install leiningen
+  408  cd ~/Downloads/
+  409  kls
+  410  ls
+  411  chmod +x lein.txt 
+  412  ./lein.txt 
+  413  lein
+  414  ls
+  415  ./lein.txt install
+  416  ls
+  417  cd ..
+  418  cd .lein/
+  419  ls
+  420  cd self-installs/
+  421  ls
+  422  chmod +x leiningen-2.8.1-standalone.jar 
+  423  ./leiningen-2.8.1-standalone.jar install
+  424  java -jar leiningen-2.8.1-standalone.jar install
+  425  java -jar leiningen-2.8.1-standalone.jar help
+  426  lein
+  427  ls
+  428  cd ~/Downloads/
+  429  ls
+  430  ./lein.txt help
+  431  ls
+  432  mv lein.txt lein
+  433  ./lein help
+  434  ./lein install
+  435  ./lein help tutorial
+  436  ls
+  437  echo $PATH
+  438  mv lein ~/.local/bin/
+  439  lein
+  440  cd ..
+  441  ls
+  442  cd git
+  443  s
+  444  ks
+  445  ls
+  446  cd kjwClojureSandbox/
+  447  which lein
+  448  lein
+  449  lein -v
+  450  clojure
+  451  ls
+  452  cd ..
+  453  ls
+  454  ls -a -l 
+  455  cd .emacs.d/
+  456  ls
+  457  vim init.el 
+  458  ls
+  459  cd ..
+  460  ls
+  461  ls -l
+  462  ls -a
+  463  vim .spacemacs 
+  464  yum update clojure
+  465  sudo yum update clojure
+  466  exit
+  467  ls
+  468  cd git
+  469  ls
+  470  cd kjwClojureSandbox/
+  471  ls
+  472  lein new app kjwClojureSandbox
+  473  lein new app kjwclojuresandbox
+  474  ls
+  475  ls kjwclojuresandbox/
+  476  mv src/kjwsandbox.clj kjwclojuresandbox/src/
+  477  cd kjwclojuresandbox/src
+  478  ls
+  479  ls kjwclojuresandbox/
+  480  vim kjwclojuresandbox/core.clj 
+  481  ls
+  482  mv kjwsandbox.clj kjwclojuresandbox/
+  483  cd ..
+  484  ls
+  485  rm kjwClojureSandbox.iml 
+  486  rm -Rf lib/
+  487  rm -Rf src
+  488  ls
+  489  mv kjwclojuresandbox/**/* .
+  490  ls
+  491  mv kjwclojuresandbox/* .
+  492  ls
+  493  rm kjwclojuresandbox
+  494  rm -Rf kjwclojuresandbox
+  495  ls
+  496  lein run
+  497  cd git
+  498  ls
+  499  https://github.com/functional-koans/clojure-koans.git
+  500  git clone https://github.com/functional-koans/clojure-koans.git
+  501  cd git
+  502  git clone git@bitbucket.org:kwalker1981/legacy.git
+  503  git clone git@bitbucket.org:justanothersoul/legacygameproject.git
+  504  cd legacy
+  505  ls
+  506  cd ..
+  507  ls
+  508  cd legacygameproject/
+  509  ls
+  510  ./engage.sh 
+  511  ./engage.sh test
+  512  sudo yum install sdl-devel
+  513  sudo yum install SDL-devel
+  514  ls
+  515  ./engage.sh 
+  516  ./engage.sh test
+  517  locate SDL.h
+  518  updatedb
+  519  sudo updatedb
+  520  locate SDL.h
+  521  ./engage.sh test
+  522  vim engage.sh 
+  523  sudo yum install SDL2-devel
+  524  ls
+  525  ./engage.sh test
+  526  ./engage.sh run
+  527  cd .emacs.d/
+  528  ls
+  529  cd layers/
+  530  ls
+  531  cd l
+  532  cd +lang/
+  533  ls
+  534  cd c-c++/
+  535  ls
+  536  vim README.org 
+  537  vim ~/.spacemacs 
+  538  ls
+  539  man xmonad
+  540  exit
+  541  cd git
+  542  ls
+  543  cd legacy
+  544  git status
+  545  ls
+  546  vim .gitignore
+  547  gs
+  548  git status
+  549  rm -Rf target/
+  550  git status
+  551  git add target
+  552  git commit
+  553  git status
+  554  git push
+  555  ls
+  556  git status
+  557  git add .gitignore 
+  558  git commit
+  559  vim .nrepl-port 
+  560  vim .gitignore
+  561  git status
+  562  git add .gitignore 
+  563  git commit
+  564  git push
+  565  git status
+  566  git diff
+  567  git status
+  568  git add src/
+  569  git commit -v
+  570  git push
+  571  exit
+  572  cd git/legacy
+  573  ls
+  574  git status
+  575  git add --all
+  576  git commit -v
+  577  git push
+  578  exit
+  579  cd git
+  580  cd legacy
+  581  git status
+  582  git diff src/legacy/core.clj
+  583  git status
+  584  git checkout -b faction_effect
+  585  git add src
+  586  git commit
+  587  git push
+  588  git push --set-upstream origin faction_effect
+  589  exit
+  590  ls
+  591  cd git
+  592  ls
+  593  cd legacy
+  594  ls
+  595  vim .git/config 
+  596  ls
+  597  git status
+  598  git fetch
+  599  cd ..
+  600  ls
+  601  mv legacy civilization_gardener
+  602  ls
+  603  cd civilization_gardener/
+  604  ls
+  605  git status
+  606  git pull
+  607  git push
+  608  git status
+  609  ls
+  610  cd src
+  611  ls
+  612  cd legacy/
+  613  ls
+  614  exit
+  615  ls
+  616  exit
+  617  cd git
+  618  ls
+  619  cd civilization_gardener/
+  620  git status
+  621  cd ..
+  622  ls
+  623  exit
+  624  cd git
+  625  ls
+  626  cd civilization_gardener/
+  627  git status
+  628  git diff
+  629  man git-diff
+  630  git diff -w
+  631  git commit -v
+  632  git add src
+  633  exit
+  634  cd git
+  635  ls
+  636  cd civilization_gardener/
+  637  ls
+  638  git status
+  639  git commit
+  640  git push
+  641  exit
+  642  cd git/civilization_gardener/
+  643  git status
+  644  git push
+  645  shutdown -r now
+  646  ps
+  647  ps -a 
+  648  kill -9 2342
+  649  kill -9 2362
+  650  ps -a | grep emacs
+  651  ps -a | grep 2125
+  652  ls
+  653  games
+  654  dwarf
+  655  df
+  656  ls
+  657  ls /usr
+  658  ls /usr/games/
+  659  ls /usr/bin/
+  660  ls
+  661  cd Desktop/
+  662  ls
+  663  cd ..
+  664  ls
+  665  cd Documents/
+  666  ls
+  667  cd ..
+  668  ls
+  669  cd Music/
+  670  ls
+  671  cd ..
+  672  ls
+  673  cd Documents/
+  674  ls
+  675  cd ..
+  676  ls
+  677  cd Pictures/
+  678  ls
+  679  cd Webcam/
+  680  ls
+  681  open 2018-05-10-075805.jpg 
+  682  open .
+  683  cd ..
+  684  ls
+  685  cd ..
+  686  ls
+  687  cd Desktop/
+  688  ls
+  689  cd ..
+  690  ls
+  691  cd Documents/
+  692  ls
+  693  cd ..
+  694  ls
+  695  cd Downloads/
+  696  ls
+  697  cd ..
+  698  ls
+  699  cd Public/
+  700  ls
+  701  cd ..
+  702  ls
+  703  cd Templates/
+  704  ls
+  705  cd ..
+  706  ls
+  707  cd git
+  708  ls
+  709  ps
+  710  ps -ef
+  711  ls
+  712  cd Music/
+  713  ls
+  714  cd. .
+  715  cd ..
+  716  ls
+  717  games
+  718  ls
+  719  cd Downloads/
+  720  ls
+  721  cd ..
+  722  cd it
+  723  cd git
+  724  ls
+  725  exit
+  726  git clone https://github.com/borgnix/spacemacs-journal.git ~/.emacs.d/private/journal
+  727  ls
+  728  ls -a -l 
+  729  cd Documents/
+  730  ls
+  731  cd journal/
+  732  ls
+  733  ls -a -l
+  734  git init
+  735  git remote add origin git@bitbucket.org:kwalker1981/journal.git
+  736  git push
+  737  git status
+  738  git add 20181017 
+  739  git commit
+  740  git push
+  741  git push --set-upstream origin master
+  742  git push
+  743  exit
+  744  cd git
+  745  ls
+  746  cd ../Documents/journal/
+  747  ls
+  748  git status
+  749  git push
+  750  exit
+  751  ls
+  752  cd git
+  753  cd civilization_gardener/
+  754  git status
+  755  git diff
+  756  git status
+  757  git add src/
+  758  git commit
+  759  git pull
+  760  git add src
+  761  git commit
+  762  git status
+  763  git add src
+  764  git commit
+  765  git push
+  766  cd git/civilization_gardener/
+  767  git status
+  768  git diff
+  769  git add src
+  770  git commit
+  771  git push
+  772  exit
+  773  dot
+  774  exit
+  775  cd git
+  776  ls
+  777  cd civilization_gardener/
+  778  git push
+  779  git status
+  780  git diff
+  781  ls
+  782  git add src
+  783  git commit
+  784  git push
+  785  exit
+  786  ls
+  787  cd git
+  788  ls
+  789  cd civilization_gardener/
+  790  git pull
+  791  cd ..
+  792  ls
+  793  cd ..
+  794  ls
+  795  cd Documents/
+  796  ls
+  797  cd journal/
+  798  git pull
+  799  ls
+  800  git status
+  801  cd ..
+  802  ls
+  803  cd journal/
+  804  ls
+  805  cd git
+  806  cd civilization_gardener/
+  807  ls
+  808  git status
+  809  git add src/
+  810  git commit
+  811  git push
+  812  sudo yum install libgtk2
+  813  sudo yum install gtk2
+  814  sudo yum install sdl
+  815  sudo yum install SDL
+  816  sudo yum install SDL_image
+  817  sudo yum install SDL_ttf
+  818  exit
+  819  sudo yum search dwarf
+  820  yum search dwarf
+  821  yum search fortress
+  822  cd Downloads/
+  823  ls
+  824  cd ..
+  825  ls
+  826  mkdir dwarf_fortress
+  827  mv Downloads/df_44_12_linux.tar.bz2 dwarf_fortress/
+  828  cd dwarf_fortress/
+  829  ls
+  830  bzip2 df_44
+  831  ls
+  832  unzip df_44_12_linux.tar.bz2
+  833  ls
+  834  bzip2 
+  835  bzip2 df_44_12_linux.tar.bz2
+  836  tar xjf df_44_12_linux.tar.bz2 
+  837  ls
+  838  rm df_44_12_linux.tar.bz2 
+  839  cd df_linux/
+  840  ls
+  841  vim README.linux 
+  842  ./df
+  843  ls
+  844  vim README.linux 
+  845  ./df
+  846  vim README.linux 
+  847  ls
+  848  vim re
+  849  vim README.linux 
+  850  ls
+  851  cd ..
+  852  ls
+  853  cd ..
+  854  ls
+  855  uname
+  856  uname -a
+  857   $ sudo dnf install SDL SDL_image SDL_ttf gtk2-devel openal-soft alsa-lib alsa-plugins-pulseaudio mesa-dri-drivers
+  858   sudo dnf install SDL SDL_image SDL_ttf gtk2-devel openal-soft alsa-lib alsa-plugins-pulseaudio mesa-dri-drivers
+  859  cd dwarf_fortress/
+  860  ls
+  861  cd df_linux/
+  862  ls
+  863  ./df
+  864  exit
+  865  cd dwarf_fortress/
+  866  ls
+  867  cd df_linux/
+  868  ls
+  869  ./df 
+  870  ls
+  871  cd libs
+  872  ls
+  873  ls -a -l
+  874  cd ..
+  875  ls
+  876  vim df
+  877  dirname
+  878  vim df
+  879  dirname $0
+  880  vim df
+  881  cd li
+  882  cd libs
+  883  ls
+  884  cd ..
+  885  ls
+  886  vim df
+  887  cd libs/
+  888  ls
+  889  mv libgcc_s.so.1 libgcc_s.so.1.bak
+  890  mv libstdc++.so.6 libstdc++.so.6.bak
+  891  ./Dwarf_Fortress 
+  892  cd ..
+  893  ./df
+  894  ps 
+  895  kill -9 3397
+  896  ls
+  897  ./df
+  898  ls
+  899  cd data/
+  900  ls
+  901  cd init
+  902  ls
+  903  cd ..
+  904  ls
+  905  cd ..
+  906  ls
+  907  vim readme.txt 
+  908  vim README.linux 
+  909  ./df
+  910  ls
+  911  cd ..
+  912  ls
+  913  cd ..
+  914  ls
+  915  exit
+  916  fg
+  917  exit
+  918  cd git
+  919  ls
+  920  cd civilization_gardener/
+  921  git push
+  922  git status
+  923  git add *
+  924  git add .
+  925  git commit
+  926  git push
+  927  cd ..
+  928  cd Documents/journal/
+  929  git status
+  930  git push
+  931  exit
+  932  yum
+  933  ping google.com
+  934  yum search elastic
+  935  docker
+  936  yum search elastic
+  937  yum install docker
+  938  sudo yum install docker
+  939  ping google.com
+  940  ping 1.1.1.1
+  941  ls
+  942  cd git
+  943  ls
+  944  ping google.com
+  945  sudo yum install docker
+  946  docker pull docker.elastic.co/elasticsearch/elasticsearch:6.6.0
+  947  docker start
+  948  docker
+  949  sudo systemctl start docker
+  950  docker pull docker.elastic.co/elasticsearch/elasticsearch:6.6.0
+  951  sudo docker pull docker.elastic.co/elasticsearch/elasticsearch:6.6.0
+  952  ls
+  953  cd textbasedmaze/
+  954  ls
+  955  cd ..
+  956  ls
+  957  cd ..
+  958  ls
+  959  cd dwarf_fortress/
+  960  ls
+  961  cd df_linux/
+  962  ls
+  963  cd ..
+  964  ls
+  965  cd Documents/
+  966  ls
+  967  mkdir elasticon
+  968  ls
+  969  top
+  970  ls
+  971  top
+  972  ls
+  973  cat /proc/cpuinfo 
+  974  cd /proc
+  975  ls
+  976  cat stat 
+  977  ls
+  978  cat filesystems 
+  979  ls
+  980  cat filesystems 
+  981  ls
+  982  cat meminfo 
+  983  exit
+  984  history | grep dnf
+  985  sudo snf upgrade --refresh
+  986  sudo dnf upgrade --refresh
+  987  sudo dnf install dnf-plugin-system-upgrade
+  988  sudo dnf system-upgrade download --refresh --releasever=29
+  989  dnf system-upgrade reboot
+  990  sudo dnf system-upgrade reboot
+  991  sudo systemctl start docker
+  992  sudo groupadd docker
+  993  sudo gpasswd -a tz docker 
+  994  sudo systemctl restart docker
+  995  newgrp docker
+  996  docker
+  997  systemctl stop docker
+  998  systemctl start docker
+  999  systemctl restart gdm
+ 1000  systemctl start docker
+ 1001  cd git
+ 1002  ls
+ 1003  yum install docker-compose
+ 1004  sudo yum install docker-compose
+ 1005  sudo yum upgrade docker-compose
+ 1006  ls
+ 1007  cd stack-docker/
+ 1008  ls
+ 1009  vim README.md 
+ 1010  cat README.md 
+ 1011  sysctl -w vm.max_map_count=262144
+ 1012  sudo sysctl -w vm.max_map_count=262144
+ 1013  docker-compose -f setup.yml up
+ 1014  ls
+ 1015  cd scripts/
+ 1016  ls
+ 1017  ls -a -l 
+ 1018  cd ..
+ 1019  ls
+ 1020  docker-compose -f setup.yml up
+ 1021  docker-compose -f setup.yml run setup "ls -la ./scripts"
+ 1022  docker-compose -f setup.yml run setup "ls -la"
+ 1023  sudo yum upgrade docker
+ 1024  ls
+ 1025  docker --version
+ 1026  dnf upgrade
+ 1027  sudo dnf upgrade
+ 1028  sudo dnf -y upgrade
+ 1029  sudo dnf remove docker docker-client docker-client-latest docker-common docker-latest docker-latest-logrotate docker-logrotate docker-selinux docker-engine-selinux docker-engine
+ 1030  sudo dnf install dnf-plugins-core
+ 1031  sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
+ 1032  sudo dnf install docker-ce docker-ce-cli containerd.io
+ 1033  sudo systemctl start docker 
+ 1034  ls
+ 1035  history | grep docker
+ 1036  ~1013
+ 1037  docker-compose -f setup.yml up
+ 1038  docker ps
+ 1039  docker-compose -f setup.yml up
+ 1040  docker ps
+ 1041  telnet localhost 9200
+ 1042  curl localhost
+ 1043  curl localhost:9200
+ 1044  curl localhost:9300
+ 1045  curl -X GET "localhost:9200/_cat/health?v"
+ 1046  docker exec -it elasticsearch bash
+ 1047  curl -X GET "localhost:9200/_cat/health?v"
+ 1048  docker ps
+ 1049  docker stats
+ 1050  ls
+ 1051  curl -X GET "localhost:9200/_cat/health?v"
+ 1052  ls
+ 1053  vim README.md 
+ 1054  cat README.md 
+ 1055  ls
+ 1056  docker ps
+ 1057  docker restart elasticsearch
+ 1058  docker ps
+ 1059  ls
+ 1060  docker exec -it elasticsearch bash
+ 1061  ls
+ 1062  history | grep curl
+ 1063  curl -X GET "localhost:9200/_cat/health?v"
+ 1064  ls
+ 1065  vim docker-compose.yml 
+ 1066  ls
+ 1067  history | grep up
+ 1068  docker-compose -f setup.yml up
+ 1069  docker-compose -f setup.yml up elasticsearch
+ 1070  docker-compose 
+ 1071  docker-compose -f setup.yml build elasticsearch
+ 1072  docker-compose -f setup.yml build 
+ 1073  docker-compose -f setup.yml up
+ 1074  docker-compose -f setup.yml down
+ 1075  docker-compose -f setup.yml up
+ 1076  docker-compose -f docker-compose.yml -f docker-compose.setup.yml down --remove-orphans
+ 1077  docker-compose -f setup.yml up -d
+ 1078  docker-compose -f setup.yml up 
+ 1079  docker-compose up -d
+ 1080  ls
+ 1081  cd scr
+ 1082  cd scripts/
+ 1083  ls
+ 1084  cd ..
+ 1085  ls
+ 1086  cd scr
+ 1087  docker stats
+ 1088  ls
+ 1089  cd config/
+ 1090  ls
+ 1091  cd elasticsearch/
+ 1092  ls
+ 1093  vim elasticsearch.yml 
+ 1094  cd ..
+ 1095  ls
+ 1096  cd ..
+ 1097  ag Xmx
+ 1098  grep -R "Xmx" .
+ 1099  ls
+ 1100  vim docker-compose.yml 
+ 1101  ls
+ 1102  vim README.md 
+ 1103  history | grep docker
+ 1104  docker exec -it elasticsearch bash
+ 1105  ls
+ 1106  docker restart elasticsearch
+ 1107  docker ps
+ 1108  docker stop elasticsearch
+ 1109  docker start elasticsearch
+ 1110  docker ps
+ 1111  curl localhost:9200
+ 1112  docker stats
+ 1113  ls
+ 1114  docker stats
+ 1115  docker exec -it elasticsearch bash
+ 1116  ls
+ 1117  docker ps
+ 1118  docker logs elasticsearch
+ 1119  docker logs elasticsearch > logs.txt
+ 1120  vi logs.txt 
+ 1121  docker logs elasticsearch 
+ 1122  ls
+ 1123  history | grep docker
+ 1124  docker exec -it elasticsearch bash
+ 1125  docker ps 
+ 1126  ls
+ 1127  cat logs.txt 
+ 1128  ls
+ 1129  cd config/
+ 1130  ls
+ 1131  cd ..
+ 1132  ls
+ 1133  cd config/
+ 1134  ls
+ 1135  cd elasticsearch/
+ 1136  ls
+ 1137  vi elasticsearch.yml 
+ 1138  ls
+ 1139  cd ..
+ 1140  ls
+ 1141  vi logs.txt 
+ 1142  cd config/
+ 1143  ls
+ 1144  docker exec -it elasticsearch bash
+ 1145  netstat
+ 1146  netstat -d
+ 1147  ls
+ 1148  cd ..
+ 1149  ls
+ 1150  history | grep logs
+ 1151  docker logs elasticsearch > logs.txt
+ 1152  ls
+ 1153  vi logs.txt 
+ 1154  curl -k https://localhost:9200/_cat/nodes?v
+ 1155  man curl
+ 1156  curl -k https://elastic:9ySTngD2+jPGpurzhUsXGA==@localhost:9200/_cat/nodes?v
+ 1157  ls
+ 1158  mkdir bin
+ 1159  cd bin
+ 1160  vim nodes.sh
+ 1161  chmod +x nodes.sh 
+ 1162  ls
+ 1163  ./nodes.sh 
+ 1164  cp nodes.sh clusterhealth.sh
+ 1165  vim clusterhealth.sh 
+ 1166  ./clusterhealth.sh 
+ 1167  cp nodes.sh indices.sh
+ 1168  vim indices.sh 
+ 1169  ./indices.sh 
+ 1170  docker start packetbeat
+ 1171  ./indices.sh 
+ 1172  cp indices.sh createIndex.sh
+ 1173  vim createIndex.sh 
+ 1174  ./createIndex.sh customer
+ 1175  ./indices.sh 
+ 1176  ls
+ 1177  cp createIndex.sh createDocument.sh
+ 1178  vim createDocument.sh 
+ 1179  cat createDocument.sh 
+ 1180  ./createDocument.sh customer 1 '{ "name": "John Doe" }'
+ 1181  vim createDocument.sh 
+ 1182  ./createDocument.sh customer 1 '{ "name": "John Doe" }'
+ 1183  ./createDocument.sh customer 1 '\{ "name": "John Doe" }'
+ 1184  ./createDocument.sh customer 1 '
+{
+  "name": "John Doe"
+}
+'
+ 1185  vim createDocument.sh 
+ 1186  ./createDocument.sh customer 1 '
+{
+  "name": "John Doe"
+}
+'
+ 1187  vim createDocument.sh 
+ 1188  ./createDocument.sh customer 1 '
+{
+  "name": "John Doe"
+}
+'
+ 1189  ./createDocument.sh customer 1 '{ "name": "John Doe" }'
+ 1190  ./createDocument.sh customer 1 "{ 'name': 'John Doe' }"
+ 1191  ls
+ 1192  vim createDocument.sh 
+ 1193  ./createDocument.sh customer 1 "{ 'name': 'John Doe' }"
+ 1194  vim createDocument.sh 
+ 1195  ./createDocument.sh customer 1 "{ 'name': 'John Doe' }"
+ 1196  ./createDocument.sh customer 1 "{ \'name\': \'John Doe\' }"
+ 1197  ./createDocument.sh customer 1 \"{ \'name\': \'John Doe\' }\"
+ 1198  ./createDocument.sh customer 1 "\"{ \'name\': \'John Doe\' }\""
+ 1199  ./createDocument.sh customer 1 "{ name: 'John' }"
+ 1200  vim create
+ 1201  vim createDocument.sh 
+ 1202  ./createDocument.sh customer 1 "{ name: 'John' }"
+ 1203  vim createDocument.sh 
+ 1204  ./createDocument.sh customer 1 "{ name: 'John' }"
+ 1205  ./createDocument.sh customer 1 '{ name: "John" }'
+ 1206  cat createDocument.sh 
+ 1207  vim createDocument.sh 
+ 1208  ./createDocument.sh customer 1 '{ name: "John" }'
+ 1209  vim createDocument.sh 
+ 1210  ./createDocument.sh customer 1 '{ name: "John" }'
+ 1211  vim createDocument.sh 
+ 1212  ./createDocument.sh customer 1 '{ name: "John" }'
+ 1213  vim createDocument.sh 
+ 1214  ./createDocument.sh customer 1 '{ name: "John" }'
+ 1215  vim createDocument.sh 
+ 1216  ./createDocument.sh customer 1 '{ name: "John" }'
+ 1217  ./createDocument.sh customer 1 '{ "name": "John" }'
+ 1218  vim createDocument.sh 
+ 1219  cp createDocument.sh getDocument.sh
+ 1220  vim getDocument.sh 
+ 1221  ./getDocument.sh customer 1
+ 1222  ls
+ 1223  cp createIndex.sh deleteIndex.sh
+ 1224  vim deleteIndex.sh 
+ 1225  ./deleteIndex.sh customer
+ 1226  ./getDocument.sh customer 1
+ 1227  ./indices.sh 
+ 1228  ls
+ 1229  ./createIndex.sh customer
+ 1230  ./createDocument.sh customer 1 '{ "name": "John Doe" }'
+ 1231  ./getDocument.sh customer 1
+ 1232  ./createDocument.sh customer 1 '{ "name": "Jane Doe" }'
+ 1233  ./getDocument.sh customer 1
+ 1234  cp createDocument.sh createDocumentAutoId.sh 
+ 1235  vim createDocumentAutoId.sh 
+ 1236  ./createDocumentAutoId.sh customer '{ "name": "Kane Doe" }'
+ 1237  ./getDocument.sh customer 7kSzqmgBev0dDq3ZJoMC
+ 1238  cp createDocument.sh updateDocument.sh
+ 1239  vim updateDocument.sh 
+ 1240  ./updateDocument.sh customer 1 '{ "name": "Jane Doe", "age": 20 }'
+ 1241  vim updateDocument.sh 
+ 1242  ./updateDocument.sh customer 1 '{ "doc" : { "name": "Jane Doe", "age": 20 } }'
+ 1243  ./getDocument.sh customer 1
+ 1244  ./updateDocument.sh customer 1 '{ "script": "ctx._source.age += 5" }'
+ 1245  ./getDocument.sh customer 1
+ 1246  cp updateDocument.sh incrementAge.sh
+ 1247  vim incrementAge.sh 
+ 1248  ./incrementAge.sh customer 1 5
+ 1249  ./getDocument.sh customer 1
+ 1250  ./updateDocument.sh customer 1 '{ "doc" : { "age": 20 } }'
+ 1251  ./getDocument.sh customer 1
+ 1252  cp updateDocument.sh updateAge.sh
+ 1253  vim updateAge.sh 
+ 1254  cp updateAge.sh updateField.sh
+ 1255  ./updateField.sh customer 1 age 5
+ 1256  vim updateAge.sh 
+ 1257  vim updateField.sh 
+ 1258  ./updateField.sh customer 1 age 5
+ 1259  ./getDocument.sh customer 1
+ 1260  ./incrementAge.sh customer 1 20
+ 1261  ./getDocument.sh customer 1
+ 1262  ls
+ 1263  cp deleteIndex.sh deleteDocument.sh
+ 1264  vim deleteDocument.sh 
+ 1265  ./deleteDocument.sh customer 2
+ 1266  ./getDocument.sh customer 2
+ 1267  ./getDocument.sh customer 1
+ 1268  ./deleteDocument.sh customer 1
+ 1269  ./getDocument.sh customer 1
+ 1270  ls
+ 1271  cp createDocument.sh bulkProcess.sh
+ 1272  vim bulkProcess.sh 
+ 1273  ./bulkProcess.sh customer '
+{"index": {"_id":"1"}}
+{"name": "John Doe" }
+{"index": {"_id":"2"}}
+{"name": "Jane Doe" }
+'
+ 1274  ls
+ 1275  ./getDocument.sh customer 1
+ 1276  ./getDocument.sh customer 2
+ 1277  cp getDocument.sh getDocuments.sh 
+ 1278  vim getDocuments.sh 
+ 1279  ./getDocuments.sh 1
+ 1280  vim getDocuments.sh 
+ 1281  ./getDocuments.sh 1
+ 1282  vim getDocuments.sh 
+ 1283  ./getDocuments.sh 
+ 1284  ls
+ 1285  ./indices.sh 
+ 1286  ls
+ 1287  ./getDocuments.sh customer
+ 1288  ls
+ 1289  rm getDocuments.sh 
+ 1290  ls
+ 1291  history | grep batch
+ 1292  history | grep bulk
+ 1293  ./bulkProcess.sh customer '
+{"index": {"_id":"1"}}
+{"name": "John Doe" }
+{"index": {"_id":"2"}}
+{"name": "Jane Doe" }
+'
+ 1294  ./bulkProcess.sh customer '
+{"update":{"_id": "1"}}
+{"doc": { "name": "John Doe becomes Jane Doe" } }
+{"delete": {"_id": "2"}}
+'
+ 1295  ./getDocument.sh customer 1
+ 1296  ./getDocument.sh customer 2
+ 1297  ls
+ 1298  cp createDocument.sh loadSampleBankJson.sh
+ 1299  vim loadSampleBankJson.sh 
+ 1300  ./loadSampleBankJson.sh 
+ 1301  ./indices.sh 
+ 1302  ls
+ 1303  cp getDocument.sh search.sh
+ 1304  vim search.sh 
+ 1305  ./search.sh bank "*&sort=account_number:asc"
+ 1306  ./search.sh bank "*&sort=account_number:desc"
+ 1307  vim search.sh 
+ 1308  ./search.sh bank "*&size=10&from=10&sort=account_number:desc"
+ 1309  ./search.sh bank "*&size=10&from=0&sort=balance:desc"
+ 1310  ./search.sh bank "*&size=10&from=0&source="balance"&sort=balance:desc"
+ 1311  ./search.sh bank "*&size=10&from=0&source=balance&sort=balance:desc"
+ 1312  ./search.sh bank "*&size=10&from=0&_source=balance&sort=balance:desc"
+ 1313  ./search.sh bank "*&size=10&from=0&_source=[account_number,balance]&sort=balance:desc"
+ 1314  ./search.sh bank "*&size=10&from=0&_source=\[account_number,balance\]&sort=balance:desc"
+ 1315  ./search.sh bank "*&size=10&from=0&_source=account_number&sort=balance:desc"
+ 1316  cp search.sh query.sh
+ 1317  vim query.sh 
+ 1318  cat getDocument.sh 
+ 1319  ls
+ 1320  cat createDocument.sh 
+ 1321  vim query.sh 
+ 1322  ./query.sh bank '
+{
+"query": {
+"bool": {
+"must": { "match_all": {} },
+"filter": {
+"range": {
+"balance": {
+"gte": 2000,
+"lte": 3000,
+}}}}}}
+'
+ 1323  ./query.sh bank '
+{
+"query": {
+"bool": {
+"must": { "match_all": {} },
+"filter": {
+"range": {
+"balance": {
+"gte": 2000,
+"lte": 3000,
+}}}}}}
+'
+ 1324  ./query.sh bank '
+{
+"query": {
+"bool": {
+"must": { "match_all": {} },
+"filter": {
+"range": {
+"balance": {
+"gte": 2000,
+"lte": 3000
+}}}}}}
+'
+ 1325  ./query.sh bank 
+ 1326  ./query.sh bank '
+
+{
+"size": 0,
+"aggs": {
+"group_by_state": {
+"terms": {
+"field": "state.keyword"
+}}}}
+'
+ 1327  ./query.sh bank '
+
+{
+"size": 10,
+"aggs": {
+"group_by_state": {
+"terms": {
+"field": "state.keyword"
+}}}}
+'
+ 1328  irb
+ 1329  ls
+ 1330  history
+ 1331  ls
+ 1332  history > history.log
